@@ -1,6 +1,6 @@
 # AWS_setup
 
-#1. Enable IAM User Access to the Billing and Cost Management Console
+#1.-Enable-IAM-User-Access-to-the-Billing-and-Cost-Management-Console
 
 ## 1. Enable IAM User Access to the Billing and Cost Management Console
 
